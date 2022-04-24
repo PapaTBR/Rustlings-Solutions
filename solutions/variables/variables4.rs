@@ -1,0 +1,11 @@
+// variables4.rs
+
+//  Solution by Tom Robertson (PapaTBR on github), feel free to review 
+//  and comment as you see fit. Hope this helps!
+
+// Make me compile! Execute the command `rustlings hint variables4` if you want a hint :)
+
+fn main() {
+    let x: i32 = -5;
+    println!("Number {}", x);
+}
